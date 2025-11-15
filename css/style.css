@@ -519,10 +519,9 @@ main{
     color: var(--primary-color);
 }
 .img_bg {
-
-  background-position: center center;
-  background-repeat: no-repeat;
   background-size: cover;
+  background-position: top center;
+  background-repeat: no-repeat;
 }
 .hidden {
     display: none;
